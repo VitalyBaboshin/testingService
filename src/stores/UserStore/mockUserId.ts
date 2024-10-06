@@ -1,0 +1,1 @@
+export const idUser1 = 'f472daf1-c282-4cca-bd47-2b29f57e8e02';

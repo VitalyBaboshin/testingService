@@ -1,0 +1,1 @@
+export { ShortQuestion } from './ShortQuestion'
